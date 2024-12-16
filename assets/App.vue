@@ -458,7 +458,7 @@ export default {
         }
         document.title = `${
           this.cwd.replace(/.*\/(?!$)|\//g, "") || "/"
-        } - 文件库`;
+        } - 梅林猫的文件分享`;
       },
       immediate: true,
     },
